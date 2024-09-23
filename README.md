@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Jrwellingtoon
+- 🌱 I’m currently learning java
